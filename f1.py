@@ -9,12 +9,10 @@ for i in range(1,100):
 print('even numbers--> ',l)
 print('odd numbers--> ',l2)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 print('hii ! i m in master branch')
-=======
+
 print('hi!, i m in dev branch')
->>>>>>> dev
-=======
+
 print('hi !, i m in dev2 branch')
->>>>>>> dev2
+
